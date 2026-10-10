@@ -1,0 +1,20 @@
+export const companyStats = [
+  {
+    id: 'workforce',
+    value: '5000+',
+    label: 'Workforce Deployed',
+    description: 'Skilled and verified personnel actively placed across global projects.'
+  },
+  {
+    id: 'clients',
+    value: '200+',
+    label: 'Clients Worldwide',
+    description: 'Trusted by top-tier enterprises, industrial contractors, and healthcare networks.'
+  },
+  {
+    id: 'industries',
+    value: '10+',
+    label: 'Industries Served',
+    description: 'Specialized workforce solutions tailored to high-compliance sectors.'
+  }
+];
