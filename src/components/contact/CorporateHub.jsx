@@ -5,24 +5,24 @@ export const corporateContacts = [
   {
     id: 'director',
     name: 'Abu Khan (Director)',
-    phone: '7310050047',
+    // phone: '7310050047',
     phoneHref: 'tel:7310050047',
     email: 'info@crewmanpower.com',
     emailHref: 'mailto:info@crewmanpower.com',
   },
   {
     id: 'operations',
-    name: 'ABID KHAN',
-    phone: '9194050047',
-    phoneHref: 'tel:9194050047',
+    name: 'ABID KHAN(Gn Manager)',
+    phone: '9194120047',
+    phoneHref: 'tel:9194120047',
     email: 'crewmanpowers@gmail.com',
     emailHref: 'mailto:crewmanpowers@gmail.com',
   },
   {
     id: 'hr',
     name: 'MANSI(HR)',
-    phone: '+91 9194150047',
-    phoneHref: 'tel:+919194150047',
+    phone: '9194150047',
+    phoneHref: 'tel:94150047',
     email: 'hr@crewmanpower.com',
     emailHref: 'mailto:hr@crewmanpower.com',
   },
@@ -73,19 +73,20 @@ export default function CorporateHub({ className = '', layout = 'grid' }) {
 
               <div>
                 <a
-                  href={contact.phoneHref}
-                  className="text-sm font-semibold text-[#0878E8] hover:underline hover:text-[#0663c4] transition-colors inline-block"
-                >
-                  {contact.phone}
-                </a>
-              </div>
-
-              <div>
-                <a
                   href={contact.emailHref}
                   className="text-xs sm:text-sm text-slate-600 hover:text-[#071B36] hover:underline transition-colors truncate block"
                 >
                   {contact.email}
+                </a>
+                
+              </div>
+
+              <div>
+                <a
+                  href={contact.phoneHref}
+                  className="text-sm font-semibold text-[#0878E8] hover:underline hover:text-[#0663c4] transition-colors inline-block"
+                >
+                  {contact.phone}
                 </a>
               </div>
             </div>

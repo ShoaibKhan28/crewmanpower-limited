@@ -65,7 +65,7 @@ export default function About() {
             Bridging Industry Demand with <span className="text-brand-orange">Skilled Hands</span>
           </h1>
           <p className="mt-4 text-base sm:text-lg text-slate-300 max-w-2xl mx-auto leading-relaxed">
-            CrewManpower is an enterprise staffing and facility solutions organization connecting ambitious companies with dependable, verified talent across India and globally.
+            CrewManpower is an enterprise staffing and facility solutions organization connecting ambitious companies with dependable, verified talent across India.
           </p>
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-[#06152B] to-transparent opacity-80 pointer-events-none"></div>
