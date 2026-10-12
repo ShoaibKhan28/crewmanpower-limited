@@ -23,7 +23,7 @@ export default function AboutSection() {
 
             {/* Description */}
             <p className="text-sm sm:text-base text-brand-body leading-relaxed text-slate-600">
-              Crewmanpower is a leading provider of premium quality temporary and permanent workforce management systems globally. We connect the right people with the right opportunities, helping businesses build stronger teams and achieve their goals.
+              Crewmanpower is a leading provider of premium quality temporary and permanent workforce management systems nationwide. We connect the right people with the right opportunities, helping businesses build stronger teams and achieve their goals.
             </p>
 
             {/* Learn More Button */}

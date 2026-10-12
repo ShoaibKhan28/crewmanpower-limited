@@ -45,7 +45,7 @@ export default function HeroSection() {
 
             {/* Supporting Text */}
             <p className="text-base sm:text-lg text-slate-200 max-w-xl leading-relaxed font-normal">
-              Providing trusted manpower and workforce solutions for industries, businesses and global opportunities.
+              Providing trusted manpower and workforce solutions for industries, businesses and nationwide opportunities.
             </p>
 
             {/* Action Buttons */}
