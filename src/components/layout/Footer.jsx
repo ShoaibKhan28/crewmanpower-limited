@@ -40,7 +40,7 @@ export default function Footer() {
           <div className="space-y-4">
             <Logo variant="light" size="md" />
             <p className="text-sm text-slate-300 leading-relaxed max-w-sm mt-3">
-              Leading provider of premium quality temporary and permanent workforce management systems globally.
+              Leading provider of premium quality temporary and permanent workforce management systems nationwide.
             </p>
             
             

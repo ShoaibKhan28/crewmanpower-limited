@@ -3,12 +3,12 @@ export const companyStats = [
     id: 'workforce',
     value: '5000+',
     label: 'Workforce Deployed',
-    description: 'Skilled and verified personnel actively placed across global projects.'
+    description: 'Skilled and verified personnel actively placed across natiowide projects.'
   },
   {
     id: 'clients',
     value: '200+',
-    label: 'Clients Worldwide',
+    label: 'Clients Nationwide',
     description: 'Trusted by top-tier enterprises, industrial contractors, and healthcare networks.'
   },
   {
