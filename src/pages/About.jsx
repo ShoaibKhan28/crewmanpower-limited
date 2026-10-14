@@ -65,7 +65,7 @@ export default function About() {
             Bridging Industry Demand with <span className="text-brand-orange">Skilled Hands</span>
           </h1>
           <p className="mt-4 text-base sm:text-lg text-slate-300 max-w-2xl mx-auto leading-relaxed">
-            CrewManpower is an enterprise staffing and facility solutions organization connecting ambitious companies with dependable, verified talent across India.
+            Crewmanpower is an enterprise staffing and facility solutions organization connecting ambitious companies with dependable, verified talent across India.
           </p>
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-[#06152B] to-transparent opacity-80 pointer-events-none"></div>
@@ -85,7 +85,7 @@ export default function About() {
                 Empowering Projects Through <span className="text-brand-primary">Responsible Workforce</span> Management
               </h2>
               <p className="text-sm sm:text-base text-brand-body leading-relaxed text-slate-600">
-                Founded with a conviction that industrial progress depends on workforce dependability, CrewManpower provides end-to-end temporary and permanent staffing solutions. Whether managing 500 site workers for a mega infrastructure project or providing discreet front-desk security for corporate headquarters, we deliver with speed and discipline.
+                Founded with a conviction that industrial progress depends on workforce dependability, Crewmanpower provides end-to-end temporary and permanent staffing solutions. Whether managing 500 site workers for a mega infrastructure project or providing discreet front-desk security for corporate headquarters, we deliver with speed and discipline.
               </p>
               <p className="text-sm sm:text-base text-brand-body leading-relaxed text-slate-600">
                 Our operations span across critical sectors including healthcare, industrial manufacturing, logistics, civil construction, and facility engineering.
@@ -200,7 +200,7 @@ export default function About() {
               icon
               className="px-8"
             >
-              Partner with CrewManpower
+              Partner with Crewmanpower
             </Button>
           </div>
         </div>

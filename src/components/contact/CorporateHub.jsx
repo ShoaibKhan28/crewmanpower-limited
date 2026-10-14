@@ -20,7 +20,7 @@ export const corporateContacts = [
   },
   {
     id: 'hr',
-    name: 'MANSI(HR)',
+    name: 'HR',
     phone: '9194150047',
     phoneHref: 'tel:94150047',
     email: 'hr@crewmanpower.com',

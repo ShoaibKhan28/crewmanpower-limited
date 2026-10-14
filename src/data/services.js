@@ -1,5 +1,21 @@
 export const coreServices = [
   {
+    id: 'facility-management',
+    title: 'Facility Management',
+    shortDescription: 'End-to-end facility management workforce solutions.',
+    icon: 'Settings',
+    link: '/services#facility-management',
+    image: '/images/crewmanpower-facility-management.jpg',
+    fullDescription: 'Integrated technical manpower solutions ensuring seamless mechanical, electrical, plumbing, and general infrastructural operations for modern estates and plants.',
+    keyRoles: [
+      'HVAC & MEP Maintenance Technicians',
+      'Licensed Electricians & Plumbers',
+      'Utility & Boiler Operators',
+      'Preventive Maintenance Supervisors'
+    ],
+    features: ['Technical certification checked', 'Zero downtime SLA mindset', 'On-site supervisory coverage']
+  },
+  {
     id: 'healthcare-staffing',
     title: 'Healthcare Staffing',
     shortDescription: 'Qualified healthcare professionals for hospitals, clinics, and care facilities.',
@@ -63,20 +79,5 @@ export const coreServices = [
     ],
     features: ['Pre-screened domain competence', 'Quick ramp-up onboarding', 'Flexible payroll & contract options']
   },
-  {
-    id: 'facility-management',
-    title: 'Facility Management',
-    shortDescription: 'End-to-end facility management workforce solutions.',
-    icon: 'Settings',
-    link: '/services#facility-management',
-    image: '/images/crewmanpower-facility-management.jpg',
-    fullDescription: 'Integrated technical manpower solutions ensuring seamless mechanical, electrical, plumbing, and general infrastructural operations for modern estates and plants.',
-    keyRoles: [
-      'HVAC & MEP Maintenance Technicians',
-      'Licensed Electricians & Plumbers',
-      'Utility & Boiler Operators',
-      'Preventive Maintenance Supervisors'
-    ],
-    features: ['Technical certification checked', 'Zero downtime SLA mindset', 'On-site supervisory coverage']
-  }
+  
 ];
