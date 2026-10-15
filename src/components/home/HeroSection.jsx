@@ -121,7 +121,7 @@ export default function HeroSection() {
                   <Users className="w-4 h-4 text-white" />
                 </div>
                 <div>
-                  <p className="text-xs font-bold leading-none">5,000+ Deployed</p>
+                  <p className="text-xs font-bold leading-none">100+ Deployed</p>
                   <p className="text-[10px] text-blue-100 leading-none mt-1">Multi-sector capability</p>
                 </div>
               </div>

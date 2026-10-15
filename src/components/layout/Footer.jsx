@@ -82,7 +82,7 @@ export default function Footer() {
             <div className="mt-3 pt-3 border-t border-slate-800 text-xs text-slate-300 space-y-1.5">
               <p className="flex items-center gap-1.5">
                 <span className="text-brand-orange font-semibold">Direct Desk:</span>
-                <a href="tel:7310050047" className="hover:text-white transition-colors font-medium">7310050047</a>
+                <a href="tel:9194150047" className="hover:text-white transition-colors font-medium">9194150047</a>
               </p>
               <p className="flex items-center gap-1.5">
                 <span className="text-brand-orange font-semibold">Email:</span>
